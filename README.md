@@ -56,11 +56,9 @@
   </picture>
 </p>
 
-<!-- contribution grid: включить после разблокировки GitHub Actions
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s0nakh/s0nakh/output/snake-dark.svg">
     <img alt="contribution grid" src="https://raw.githubusercontent.com/s0nakh/s0nakh/output/snake-light.svg">
   </picture>
 </p>
--->
